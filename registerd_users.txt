@@ -1,0 +1,24 @@
+{
+  username: 'rajesh432',
+  name: 'rajesh chokse',
+  password: '()&^hy3453453',
+  emailId: 'rajesh23@google.com'
+},
+{
+    "username": "mahesh123",
+    "name": "mahesh solanki",
+    "password": "654fgrt654",
+    "emailId": "maheshsolanki@yahoo.com"
+},
+{
+    "username": "Arjun###",
+    "name": "Arjun Raghuvanshi",
+    "password": "rw43er56hytg6",
+    "emailId": "raghu&arjun@yahoo.com"
+},
+{
+    "username": "laxman_222",
+    "name": "Laxman Singh",
+    "password": "e3r45t6",
+    "emailId": "laxmanSingh1989@yahoo.com"
+}
